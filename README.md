@@ -15,7 +15,7 @@ A Node.js command-line application that takes in information about employees on 
 
 [GitHub Repo](https://github.com/mschmitzzz/hw-10-team-profile-generator)
 
-[Video Link](https://drive.google.com/file/d/1lIqyrtvoLPe_WbJ8VnTH1Vuj3YudmTUO/view)
+[Video Link](https://drive.google.com/file/d/1FqPnU3KZ_wYeuOU2hgNtkq73dtM5KJjl/view)
 
 ## Installation
 
